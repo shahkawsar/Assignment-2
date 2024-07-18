@@ -1,0 +1,23 @@
+.jak{
+    color: rgb(80, 19, 19);
+    font-style: italic;
+}
+body{
+    background: #000;
+    color: white;
+}
+
+.header{
+    display: flex;
+    justify-content: space-around;
+    
+}
+a{
+    color: white;
+    text-decoration: none;
+  padding: 10px 15px; border-radius: 10px;
+}
+a:hover {
+    background-color: #E6533C; padding: 10px 15px; border-radius: 10px;
+  }
+  
